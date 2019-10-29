@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570509833 source:e:\10225\inventory\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1572111003 source:d:\university\programming\semester 5\game programming\inventory\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
